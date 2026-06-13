@@ -1,100 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=220&section=header&text=CAFFIENATED-NICK&fontSize=55&fontColor=ff5e5e&animation=fadeIn&fontAlignY=38&desc=code%20wizard%20%7C%20brewing%20pixels%20%7C%20jacked%20on%20coffee&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=230&section=header&text=CAFFIENATED-NICK&fontSize=52&fontColor=FF8C00&animation=fadeIn&fontAlignY=35&desc=警察%20//%20CODE%20WIZARD%20//%20BREWING%20PIXELS&descAlignY=58&descSize=18&descColor=FF8C00" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF5E5E&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+ONLINE...;%3E+INITIALIZING+DEV+MODULE...;%3E+RUNNING+ON+CAFFEINE_v2.0;%3E+WELCOME+TO+THE+MAINFRAME)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=650&lines=%3E+ACCESSING+MAINFRAME...;%3E+SEC_CODE%3A+25805-K-2973;%3E+OPERATOR+STATUS%3A+ONLINE;%3E+FUEL+RESERVES%3A+CAFFEINE_98%25;%3E+WELCOME%2C+OPERATIVE)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/SIGNAL-●●●●●_LOW-FF8C00?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/ACCESS-AUTHORIZED-FF8C00?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/CLASS-FULL_STACK_OPERATIVE-FF8C00?style=flat-square&labelColor=0a0a0a" />
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📡 TRANSMISSION_LOG
+<div align="center">
+
+### 🛰️ ░▒▓ IDENTIFICATION FILE ▓▒░
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```ini
-[IDENTITY]
-codename     = caffienated-nick
-class        = full-stack-operative
-fuel_source  = caffeine ☕ + curiosity
-status       = ONLINE
-location     = sector // earth-001
-mission      = building things that ship
+┌──────────────────────────────────┐
+│  OFFICER FILE :: K-D6-3.7         │
+├──────────────────────────────────┤
+│ CODENAME    : caffienated-nick    │
+│ UNIT        : full-stack-operative│
+│ FUEL SOURCE : caffeine + chaos    │
+│ STATUS      : [ONLINE]            │
+│ SECTOR      : earth-001           │
+│ MISSION     : ship things, break  │
+│               nothing (mostly)    │
+└──────────────────────────────────┘
 
-[CURRENT_OBJECTIVES]
-> shipping side projects
-> automating everything possible
-> learning faster than the changelog updates
+> AUTHORIZATION GRANTED TO ABOVE USER
+> TO DEPLOY, DEBUG, AND/OR REFACTOR
+> ANY REPOSITORY SUSPECTED OF PRIOR
+> SPAGHETTI CODE VIOLATIONS.
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
+
+<br/>
+<sub>◢◤ VISUAL FEED — UNSTABLE ◢◤</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🛰️ TECH ARSENAL
+---
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FF5E5E)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFE066)
-![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=00E5FF)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FF5E5E)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
-![Batchfile](https://img.shields.io/badge/SHELL_SCRIPT-000000?style=for-the-badge&logo=gnu-bash&logoColor=00E5FF)
-![VS Code](https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00E5FF)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+### ⚙️ ░▒▓ HARDWARE / LOADOUT ▓▒░
+
+<img src="https://img.shields.io/badge/PYTHON-0a0a0a?style=for-the-badge&logo=python&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-0a0a0a?style=for-the-badge&logo=javascript&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/LINUX-0a0a0a?style=for-the-badge&logo=linux&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/GIT-0a0a0a?style=for-the-badge&logo=git&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/NVIDIA-0a0a0a?style=for-the-badge&logo=nvidia&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/SHELL-0a0a0a?style=for-the-badge&logo=gnu-bash&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/VS_CODE-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/DOCKER-0a0a0a?style=for-the-badge&logo=docker&logoColor=FF8C00" />
 
 </div>
 
-<br/>
-
-## 📊 SYSTEM DIAGNOSTICS
+---
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=FF5E5E&icon_color=00E5FF&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=FF5E5E&text_color=ffffff&langs_count=8"/>
+### 📊 ░▒▓ SYSTEM DIAGNOSTICS — SCANNING ▓▒░
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=react&hide_border=true&background=0D0221&ring=FF5E5E&fire=FF5E5E&currStreakLabel=00E5FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=FF8C00&icon_color=FF8C00&text_color=e0e0e0&include_all_commits=true&count_private=true&ring_color=FF8C00"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=FF8C00&text_color=e0e0e0&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=synthwave&hide_border=true&bg_color=0d0221&color=00E5FF&line=FF5E5E&point=FFE066"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=0a0a0a&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=e0e0e0&dates=e0e0e0&currStreakNum=FF8C00&sideNums=FF8C00"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=FF8C00&line=FF8C00&point=ffffff&area=true&area_color=FF8C00"/>
 
 </div>
 
-<br/>
-
-## 🎮 FEATURED BUILDS
+---
 
 <div align="center">
 
-[![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=FF5E5E&text_color=ffffff&icon_color=00E5FF)](https://github.com/caffienated-nick/muxless)
-[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=FF5E5E&text_color=ffffff&icon_color=00E5FF)](https://github.com/caffienated-nick/Hotel-management-system)
+### 🎮 ░▒▓ DEPLOYED UNITS ▓▒░
+
+[![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=FF8C00&text_color=e0e0e0&icon_color=FF8C00)](https://github.com/caffienated-nick/muxless)
+[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=FF8C00&text_color=e0e0e0&icon_color=FF8C00)](https://github.com/caffienated-nick/Hotel-management-system)
 
 </div>
 
-<br/>
-
-## 📟 TRANSMISSION FREQUENCIES
+---
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/caffienated-nick?style=for-the-badge&color=FF5E5E&labelColor=0d0221&logo=github)
-![Profile views](https://komarev.com/ghpvc/?username=caffienated-nick&style=for-the-badge&color=00E5FF&labelColor=0d0221)
+### 📡 ░▒▓ TRANSMISSION FREQUENCIES ▓▒░
+
+<img src="https://img.shields.io/github/followers/caffienated-nick?style=for-the-badge&color=FF8C00&labelColor=0a0a0a&logo=github&logoColor=FF8C00" />
+<img src="https://komarev.com/ghpvc/?username=caffienated-nick&style=for-the-badge&color=FF8C00&labelColor=0a0a0a" />
 
 </div>
 
@@ -103,9 +122,10 @@ mission      = building things that ship
 <div align="center">
 
 ```
-> END OF TRANSMISSION ___________________________ [ STATUS: ONLINE ]
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤  END TRANSMISSION  ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+░░░░░░░░░░░░░░░░░░░░░  STATUS :: ONLINE  ░░░░░░░░░░░░░░░░░░░░░
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=120&section=footer" width="100%"/>
 
 </div>
