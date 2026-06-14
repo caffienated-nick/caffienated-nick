@@ -1,35 +1,72 @@
 <div align="center">
-
 <img src="./banner.png" width="100%"/>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&width=700&lines=root%40nick%3A~%24+whoami;%3E+full-stack+dev+%2F+gpu+tinkerer+%2F+caffeine+addict;root%40nick%3A~%24+cat+motivation.txt;%3E+ship+it.+fix+it+later.+repeat.)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF6A00?style=flat-square&labelColor=0a0707" />
-<img src="https://img.shields.io/badge/MOOD-CHAOTIC_GOOD-00E5FF?style=flat-square&labelColor=0a0707" />
-<img src="https://img.shields.io/badge/FUEL-CAFFEINE_98%25-FF3DA6?style=flat-square&labelColor=0a0707" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=FF6A00&center=true&vCenter=true&width=700&lines=root%40nick%3A~%24+whoami;%3E+code+wizard+%2F+pixel+brewer+%2F+gpu+tinkerer;root%40nick%3A~%24+cat+%2Fetc%2Fmotd;%3E+ship+it.+fix+it+later.+repeat.;root%40nick%3A~%24+uptime;%3E+running+on+espresso+since+boot)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
+---
+
+<div align="center">
+
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⣭⣭⡥⠄⠤⠄⠉⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⢛⣛⢻⣿⣿⣿⣿⣿⣿⣿⣿⢋⡶⠋⣉⣥⠤⠀⣰⣄⠀⠀⢠⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡇⣸⡿⢿⢸⣿⣿⣿⣿⣿⣿⣱⡻⠿⠺⢭⣷⡤⠾⠛⠛⢷⣑⢄⣸⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣶⣿⢸⣿⣿⣿⣿⣿⡇⢿⣀⣶⣿⣶⣵⣤⣠⣠⣤⣶⣿⣿⣿⣶⡄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣼⣿⣿⣿⣿⣿⡇⠦⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡗⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⢜⣛⣻⡇⣿⣿⣿⣿⣿⣷⠀⠀⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣿⣿⡇⣿⣿⣿⣿⣿⡿⣀⠠⣿⣿⠿⠛⠛⠛⠿⣿⣿⠛⠋⠉⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⢟⣭⡙⣿⣿⡇⣛⣛⢿⣿⣿⣧⠎⠶⣿⣷⣎⣁⣠⢄⣴⣿⣇⢠⣶⣶⣧⣤⡀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣷⢹⣿⣇⢛⡻⢧⢠⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⠨⠻⣿⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⢣⢸⣿⣿⣿⣿⣿⣿⣿⣿⣶⣯⣌⢯⡻⠎⣌⢿⣿⡿⢋⣍⡛⠿⠛⠁⠹⣿⣿⡇⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡟⣱⣿⢈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢸⣿⣿⠹⣿⣿⣇⠘⢛⣛⣒⣢⡤⠀⣼⡟⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡰⣾⣿⢸⣿⣿⣿⢹⣿⣿⣿⡇⣿⣿⣧⢸⠿⠋⢰⡙⣿⣿⣿⣦⡀⠀⠀⢀⠂⣿⡇⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣷⢻⣯⣼⣿⣿⣿⣇⣿⣿⣿⣇⣿⣿⣿⠀⠀⠀⠈⢿⣮⡻⣿⣿⣯⣍⣉⣥⣼⡿⢠⣷⣙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠈⢻⣿⣦⣝⠿⠿⠿⠿⣛⣵⠛⠛⠿⣧⠙⠛⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣷⣝⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠐⠜⢿⣿⣿⣿⡿⢂⣤⠌⠀⠀⢠⣀⣤⠀⠀⠈⠙⢿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣎⢿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠈⢆⠙⠿⠟⣠⣄⠐⠛⠓⠢⢸⣿⣿⣇⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣎⠩⣿⣿⣿⣿⡿⢋⣴⠀⠀⠀⠀⠀⠀⠀⠈⠳⣤⣾⣿⣿⣿⣮⡙⠒⠸⣿⣿⣿⡄⠀⠀⠀⠈⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠿⢛⣫⣵⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⢀⠔⠋⣘⢿⣿⣇⠀⠀⠀⠀⣸⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡟⣣⣴⣶⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⡿⠀⢠⡾⠋⠈⢿⣿⠀⣠⣴⣾⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣷⣶⣶⣶⣶⣮⣤⣀⣀⣬⣵⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⣠⣴⣶⣷⣦⣀⣀⣀⣀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
+
+</div>
+
+---
+
 ```
 ░▒▓█  WHO GOES THERE  █▓▒░
 ```
 
-I write code, break things, then write more code to fix the things I broke. Currently
-running on a steady drip of coffee and a deep, personal grudge against bad documentation.
-
+I write code, break things, then write more code to fix the things I broke.
+Running on espresso and a deep personal grudge against bad documentation.
 Code wizard. Brewing pixels. You know how it goes.
 
-<br/>
+```
+  nick@earth:~$ cat /proc/self/status
+  Name:         caffienated-nick
+  State:        R (running)
+  Fuel:         caffeine [CRITICAL]
+  Git_streak:   ongoing
+  Sleep_mode:   DISABLED
+  Bugs_filed:   ∞
+  Bugs_fixed:   ∞ - 1
+```
+
+---
 
 ```
 ░▒▓█  LOADOUT  █▓▒░
@@ -48,7 +85,7 @@ Code wizard. Brewing pixels. You know how it goes.
 
 </div>
 
-<br/>
+---
 
 ```
 ░▒▓█  THE NUMBERS  █▓▒░
@@ -69,7 +106,7 @@ Code wizard. Brewing pixels. You know how it goes.
 
 </div>
 
-<br/>
+---
 
 ```
 ░▒▓█  FIELD DEPLOYMENTS  █▓▒░
@@ -80,19 +117,19 @@ Code wizard. Brewing pixels. You know how it goes.
 [![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=00E5FF)](https://github.com/caffienated-nick/muxless)
 [![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=00E5FF)](https://github.com/caffienated-nick/Hotel-management-system)
 
-[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=zazriel%2Fblackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
+[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
+[![Chip-Chimp](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Chip-Chimp&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Chip-Chimp)
 
 </div>
 
-<sub align="center">
+```
+  > muxless          — kills idle NVIDIA GPUs on battery. small script. real impact.
+  > Hotel-mgmt       — full hotel ops in python. someone had to build it.
+  > blackpearl       — python chatroom with pubnub + customtkinter. collab drop.
+  > Chip-Chimp       — whatever this is, it shipped. that's what matters.
+```
 
-> `muxless` — kills idle NVIDIA GPUs on battery, brings 'em back on AC. small tool, real savings.
-> `Hotel-management-system` — python-based hotel ops, because someone had to build it.
-> `blackpearl` — private python chatroom w/ pubnub + customtkinter, collab project.
-
-</sub>
-
-<br/><br/>
+---
 
 ```
 ░▒▓█  TRANSMISSIONS  █▓▒░
@@ -105,16 +142,27 @@ Code wizard. Brewing pixels. You know how it goes.
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
 ```
+  ██████╗ ██████╗ ██████╗ ███████╗    ██╗███████╗
+  ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║██╔════╝
+  ██║     ██║   ██║██║  ██║█████╗      ██║███████╗
+  ██║     ██║   ██║██║  ██║██╔══╝      ██║╚════██║
+  ╚██████╗╚██████╔╝██████╔╝███████╗    ██║███████║
+   ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝
+```
+
+```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⠟⠛⠛⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿
-⣿⡏     SYSTEM IDLE. OPERATOR CAFFEINATED.        ⣿⣿⣿⣿
-⣿⡇     READY FOR NEXT DIRECTIVE.                  ⣿⣿⣿⣿
-⣿⣇⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣣⣿⣿⣿⣿⣿
+⣿⣿⠟⠛⠛⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⡏     SYSTEM IDLE.                              ⣿⣿
+⣿⡇     OPERATOR : CAFFIENATED.                   ⣿⣿
+⣿⡇     NEXT DIRECTIVE : UNKNOWN.                 ⣿⣿
+⣿⡇     SEC_CODE : 25805-K-2973                   ⣿⣿
+⣿⣇⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣣⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
