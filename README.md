@@ -37,11 +37,11 @@
 ---
 <div align="center">
 
-```
-<img width="1013" height="887" alt="image" src="https://github.com/user-attachments/assets/7ffd8997-83fd-4cfe-aaf8-a2744c3f8873" />
+
+<img width="1590" height="1007" alt="image" src="https://github.com/user-attachments/assets/076255d8-8a7f-493d-b647-cd9221a9ac55"  />
 
 ⠀⠀⠀⠀
-```
+
 
 </div>
 
