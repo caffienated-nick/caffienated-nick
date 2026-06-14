@@ -161,7 +161,9 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>&nbsp
+</div>
 
 <table width="100%"><tr>
 <td width="65%" valign="middle">
@@ -185,10 +187,12 @@
 <td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/glitter-portrait.png" width="100%"/></td>
 </tr></table>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>&nbsp
+</div>
 
 <div align="center">
-<img src="assets/anime.gif" width="200px"/>&nbsp;<img src="assets/hacker.gif" width="200px"/>&nbsp;<img src="assets/cat.gif" width="200px"/>&nbsp;<img 
+<img src="assets/anime.gif" width="300px"/>&nbsp;<img src="assets/hacker.gif" width="300px"/>&nbsp;<img src="assets/cat.gif" width="200px"/>&nbsp;<img 
 </div>
 
 ---
