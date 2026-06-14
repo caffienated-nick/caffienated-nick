@@ -188,7 +188,7 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/10bxTLrpJNS0PC/giphy.gif" width="155px"/>&nbsp;<img src="https://media.giphy.com/media/VGwTq3G6a39cI/giphy.gif" width="155px"/>&nbsp;<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="155px"/>&nbsp;<img src="https://media.giphy.com/media/xT9IgG50Lg7rusRgqU/giphy.gif" width="155px"/>
+<img src="assets/anime.gif" width="200px"/>&nbsp;<img src="assets/hacker.gif" width="200px"/>&nbsp;<img src="assets/cat.gif" width="200px"/>&nbsp;<img 
 </div>
 
 ---
