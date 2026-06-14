@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=FF6A00&center=true&vCenter=true&width=700&lines=root%40nick%3A~%24+whoami;%3E+code+wizard+%2F+pixel+brewer+%2F+gpu+tinkerer;root%40nick%3A~%24+uptime;%3E+running+on+espresso+since+boot;root%40nick%3A~%24+cat+motivation.txt;%3E+ship+it.+fix+it+later.+repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=FF6A00&center=true&vCenter=true&width=700&lines=root%40nick%3A~%24+whoami;%3E+code+wizard+%2F+pixel+brewer+%2F+ai+tinkerer;root%40nick%3A~%24+cat+motivation.txt;%3E+caffeinated+chaos.+always+building.;root%40nick%3A~%24+git+log+--oneline;%3E+every+commit+was+worth+it.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,9 @@
 
 ---
 
-<!-- ░░░░  CHROME HEAD — WHITE ACCENT  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  CHROME HEAD — WHO GOES THERE                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -24,30 +26,24 @@
 <td width="58%" valign="middle">
 
 ```
-┌─────────────────────────────────────┐
-│  OPERATIVE  :  caffienated-nick      │
-│  CLASS      :  code wizard           │
-│  FUEL       :  espresso ☕           │
-│  SLEEP      :  DISABLED              │
-│  BUGS FILED :  ∞                     │
-│  BUGS FIXED :  ∞ - 1                 │
-│  COMMITS    :  yes                   │
-│  VIBE       :  chaotic good          │
-└─────────────────────────────────────┘
+  caffienated-nick
+  ─────────────────────────────────
+  building things nobody asked for.
+  going deep on AI/ML.
+  indie cult film, not a blockbuster.
+
+  into everything:
+  beats, cars, films, poetry,
+  games, machines, and whatever
+  comes next.
+
+  caffeinated chaos.
+  always building.
 ```
 
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-e8e8e8?style=flat-square&labelColor=0a0707)
-![MOOD](https://img.shields.io/badge/MOOD-CHAOTIC_GOOD-e8e8e8?style=flat-square&labelColor=0a0707)
-![FUEL](https://img.shields.io/badge/FUEL-CAFFEINE_98%25-e8e8e8?style=flat-square&labelColor=0a0707)
-
-```
-  i write code. i break things.
-  i write more code to fix the
-  things i broke.
-
-  no corp energy. no bullshit.
-  just code that ships.
-```
+![](https://img.shields.io/badge/STATUS-ONLINE-e8e8e8?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/ERA-GOING_DEEP-e8e8e8?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/FUEL-CAFFEINE_CRITICAL-e8e8e8?style=flat-square&labelColor=0a0707)
 
 </td>
 </tr>
@@ -57,23 +53,22 @@
 
 ---
 
-<!-- ░░░░  BRAILLE NAME ART  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  BRAILLE NAME ART 1                                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⣭⣭⡥⠄⠉⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⢛⣛⢻⣿⣿⣿⣿⣿⣿⣿⣿⢋⡶⠋⣉⣥⠤⠀⣰⣄⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡇⣸⡿⢿⢸⣿⣿⣿⣿⣿⣿⣱⡻⠿⠺⢭⣷⡤⠾⠛⢷⣑⢄⣸⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣶⣿⢸⣿⣿⣿⣿⣿⡇⢿⣀⣶⣿⣶⣵⣤⣠⣤⣶⣿⣿⣿⡄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣼⣿⣿⣿⣿⣿⡇⠦⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡗⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣿⣿⡇⣿⣿⣿⣿⣿⡿⣀⠠⣿⣿⠿⠛⠛⠿⣿⣿⠛⠋⠉⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⢟⣭⡙⣿⣿⡇⣛⣛⢿⣿⣿⣧⠶⣿⣷⣎⣁⣠⢄⣴⣿⣇⢠⣶⣶⡀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣾⣿⡇⣿⣿⣷⢹⣿⣇⢛⡻⢧⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⠻⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⢣⢸⣿⣿⣿⣿⣿⣿⣿⣿⣶⣯⣌⢯⠎⣌⢿⣿⡿⢋⣍⡛⠿⠁⠹⣿⡇⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⡟⣱⣿⢈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢸⣿⠹⣿⣿⣇⠘⢛⣛⣢⡤⠀⣼⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⣭⣭⡥⠄⠤⠄⠉⠉⠙⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⢛⣛⢻⣿⣿⣿⣿⣿⣿⣿⣿⢋⡶⠋⣉⣥⠤⠀⣰⣄⠀⠀⠀⢠⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡇⣸⡿⢿⢸⣿⣿⣿⣿⣿⣿⣱⡻⠿⠺⢭⣷⡤⠾⠛⠛⢷⣑⢄⣸⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣶⣿⢸⣿⣿⣿⣿⣿⡇⢿⣀⣶⣿⣶⣵⣤⣠⣠⣤⣶⣿⣿⣿⣶⡄⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣼⣿⣿⣿⣿⣿⡇⠦⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡗⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⢜⣛⣻⡇⣿⣿⣿⣿⣿⣷⠀⠀⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣿⣿⡇⣿⣿⣿⣿⣿⡿⣀⠠⣿⣿⠿⠛⠛⠛⠿⣿⣿⠛⠋⠉⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
 </div>
@@ -82,14 +77,16 @@
 
 ---
 
-<!-- ░░░░  GREEN ALIEN — LIME ACCENT — LOADOUT  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  GREEN ALIEN — LOADOUT                                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 <td width="58%" valign="middle">
 
 ```
-  LOADOUT // WHAT I BUILD WITH
+  LOADOUT
 ```
 
 ![Python](https://img.shields.io/badge/PYTHON-0a0707?style=for-the-badge&logo=python&logoColor=39ff14)
@@ -102,11 +99,10 @@
 ![Docker](https://img.shields.io/badge/DOCKER-0a0707?style=for-the-badge&logo=docker&logoColor=39ff14)
 
 ```
-  when the compiler finally
-  shuts up and the code runs —
-
-  that's the whole point.
-  that's the only point.
+  currently going deep on AI/ML.
+  not the tutorial kind.
+  the 40 browser tabs open
+  at 2am kind.
 ```
 
 </td>
@@ -120,21 +116,25 @@
 
 ---
 
-<!-- ░░░░  RETRO GIF ROW 1  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  RETRO GIF ROW 1 — chaotic/sci-fi                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="180px"/>
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="180px"/>
 &nbsp;&nbsp;
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180px"/>
+<img src="https://media.giphy.com/media/xT9IgG50Lg7rusRgqU/giphy.gif" width="180px"/>
 &nbsp;&nbsp;
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180px"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180px"/>
 </div>
 
 <br/>
 
 ---
 
-<!-- ░░░░  THE NUMBERS — ORANGE  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  THE NUMBERS                                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -159,7 +159,21 @@
 
 ---
 
-<!-- ░░░░  PORSCHE — PURPLE/PINK ACCENT  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  SNAKE                                                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  PORSCHE — PURPLE/PINK                                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -169,25 +183,20 @@
 <td width="58%" valign="middle">
 
 ```
-  TRANSMISSION LOG
+  not chasing trends.
+  not following a roadmap.
+
+  music on. headphones in.
+  building something weird
+  that probably won't go viral
+  and i don't care.
+
+  the best projects are the ones
+  you build because you had to.
 ```
 
-![](https://img.shields.io/badge/SECTOR-EARTH_001-b44fff?style=flat-square&labelColor=0a0707)
-![](https://img.shields.io/badge/MODE-FULL_SEND-ff3da6?style=flat-square&labelColor=0a0707)
-![](https://img.shields.io/badge/SPEED-NO_LIMIT-b44fff?style=flat-square&labelColor=0a0707)
-
-```
-  nick@earth:~$ cat /proc/self/status
-
-  Name    : caffienated-nick
-  State   : R (running)
-  Fuel    : caffeine [CRITICAL]
-  Streak  : ongoing
-  Sleep   : DISABLED
-  Vibe    : somewhere between
-            scientist and punk
-  Speed   : 0 to shipped
-```
+![](https://img.shields.io/badge/GENRE-INDIE_CULT_FILM-b44fff?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/SPEED-FULL_SEND-ff3da6?style=flat-square&labelColor=0a0707)
 
 </td>
 </tr>
@@ -197,31 +206,55 @@
 
 ---
 
-<!-- ░░░░  GLITTER PORTRAIT — RED ACCENT  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  ASCII ART 2 — BRAILLE FIGURE                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣶⡴⠶⠾⠛⠛⠛⠛⠛⠋⠉⠉⠉⠉⠉⠉⠙⠛⠛⠓⠚⠳⠶⠶⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⡶⠶⠾⠛⠛⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠷⢶⣤⣀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⠶⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣦⣄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⠾⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣦⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣷
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠰⢶⡶⠶⠆⠀⠀⠀⠀⢰⡾⠓⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠀⠀⠀⢻⣇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣇⠀⠀⠀⠀⠀⠀⢸⡗⠀⠀⠀⠀⠀⠰⣾⡷⠦⠀⣰⠞⢳⣦⠀⣰⡞⢻⣦⠀⢸⡇⠀⠀⠀⠀⣴⠛⠷⠀⣠⡾⠷⣦⠀⠀⠀⠀⣰⡞⠳⠆⠀⣶⠀⢠⣶⠟⣶⠄⢰⡷⠷⣶⠿⣶⠀⣠⡶⢳⡗⠀⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡀⠀⠀⠀⠀⠀⣸⡇⢀⠀⠀⠀⠀⠀⣸⡇⠀⠀⢿⡉⢉⣉⠀⢿⣉⠉⣉⠀⣼⡇⠀⠀⠀⢀⡉⠛⣶⠄⢿⡄⢀⣿⠀⠀⠀⠀⣉⠙⣷⡆⠀⣿⠀⢼⣇⣀⣾⠀⢸⡇⠀⣇⠀⣿⠀⣿⡀⢸⡇⠀⠛
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣧⡀⠀⠀⠀⠈⠉⠉⠋⠁⠀⠀⠀⠀⠙⠁⠀⠀⠈⠉⠉⠁⠀⠀⠉⠉⠉⠀⠉⠁⠀⠀⠀⠈⠉⠛⠉⠀⠀⠙⠉⠁⠀⠀⠀⠀⠉⠉⠉⠀⠀⠉⠀⠀⠉⢉⣿⠀⠈⠁⠈⠁⠀⠉⠀⠈⠉⠉⠉⠀⠙⠁
+```
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  GLITTER PORTRAIT — RED                                -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 <td width="58%" valign="middle">
 
 ```
-  SYSTEM INTERRUPT
+  i write poetry too.
+  not just code.
+
+  both are about finding the right
+  word for something that doesn't
+  have one yet.
+
+  one compiles.
+  one doesn't need to.
 ```
 
-![](https://img.shields.io/badge/WARNING-UNFILTERED_OUTPUT-ff2020?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/ALSO-WRITES_POETRY-ff2020?style=flat-square&labelColor=0a0707)
 ![](https://img.shields.io/badge/STYLE-MAXIMALIST-ff2020?style=flat-square&labelColor=0a0707)
-
-```
-  everything i do is intentional.
-  even the chaos.
-
-  especially the chaos.
-
-  the code is the art.
-  the commits are the brushstrokes.
-  the bugs are the texture.
-
-  deal with it.
-```
+![](https://img.shields.io/badge/INTO-EVERYTHING-ff2020?style=flat-square&labelColor=0a0707)
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -234,7 +267,25 @@
 
 ---
 
-<!-- ░░░░  HALFTONE CLOUDS + CAT ASCII  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  RETRO GIF ROW 2 — glitch/matrix/noise                -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://media.giphy.com/media/10bxTLrpJNS0PC/giphy.gif" width="180px"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/VGwTq3G6a39cI/giphy.gif" width="180px"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif" width="180px"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  HALFTONE CLOUDS — FIELD DEPLOYMENTS                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -261,40 +312,59 @@
 
 ---
 
-<!-- ░░░░  PIXEL PORTRAIT — CYAN ACCENT  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  ASCII ART 3 — PYRAMID TOTEM                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160px"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160px"/>
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/ZVik7pIo9KB3UA2223/giphy.gif" width="160px"/>
+```
+         ___
+        /   \
+       /     \
+      /  /^\  \
+     /  / | \  \
+    /  /  |  \  \
+   /  /   |   \  \
+  /  /    |    \  \
+ /  /     |     \  \
+/__/_______|_____\__\
+|                    |
+|   caffienated-nick |
+|   ai. code. chaos. |
+|____________________|
+```
 
 </div>
 
 <br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  PIXEL PORTRAIT — CYAN                                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 <td width="58%" valign="middle">
 
 ```
-  SIGNAL RECEIVED
+  late night.
+  terminal open.
+  model training in the background.
+  beats playing.
+
+  this is the overlap between
+  sound and signal, between
+  art and algorithm.
+
+  the machine learns.
+  so do i.
 ```
 
-![](https://img.shields.io/badge/FREQUENCY-00E5FF-00e5ff?style=flat-square&labelColor=0a0707)
-![](https://img.shields.io/badge/SIGNAL-STRONG-00e5ff?style=flat-square&labelColor=0a0707)
-
-```
-  late night commit messages.
-  3am stack traces.
-  a cold coffee and a hot cpu.
-
-  this is the life you chose
-  when you opened the terminal
-  and never really closed it.
-```
+![](https://img.shields.io/badge/CURRENTLY-DEEP_IN_AI_ML-00e5ff?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/TABS_OPEN-40_PLUS-00e5ff?style=flat-square&labelColor=0a0707)
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -307,7 +377,9 @@
 
 ---
 
-<!-- ░░░░  MF DOOM — OLIVE/GOLD ACCENT  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  MF DOOM — OLIVE                                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -317,25 +389,20 @@
 <td width="58%" valign="middle">
 
 ```
-  VILLAIN MODE
-```
-
-![](https://img.shields.io/badge/MASK-ON-b5a642?style=flat-square&labelColor=0a0707)
-![](https://img.shields.io/badge/KEYBOARD-OUT-b5a642?style=flat-square&labelColor=0a0707)
-![](https://img.shields.io/badge/RESPECT-EARNED-b5a642?style=flat-square&labelColor=0a0707)
-
-```
   every line of code
   is a bar you haven't heard yet.
 
-  the work speaks.
-  not the resume.
-  not the title.
+  weird side projects.
+  obscure references.
+  building for the culture,
   not the clout.
 
-  all caps when you spell the
-  name. — MF DOOM
+  the work speaks.
+  not the resume.
 ```
+
+![](https://img.shields.io/badge/MASK-ON-b5a642?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/WEIRD_PROJECTS-YES-b5a642?style=flat-square&labelColor=0a0707)
 
 </td>
 </tr>
@@ -345,29 +412,29 @@
 
 ---
 
-<!-- ░░░░  EXPLOSION HEAD — ORANGE/RED ACCENT  ░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  EXPLOSION HEAD — ORANGE                               -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 <td width="58%" valign="middle">
 
 ```
-  3AM. FOURTH COFFEE. BUG FOUND.
-```
-
-![](https://img.shields.io/badge/HEAD-EXPLODING-FF6A00?style=flat-square&labelColor=0a0707)
-![](https://img.shields.io/badge/PUSH_TO-MAIN-ff2020?style=flat-square&labelColor=0a0707)
-![](https://img.shields.io/badge/WORRY-LATER-FF6A00?style=flat-square&labelColor=0a0707)
-
-```
-  when the bug finally makes sense
-  and you've had four coffees
-  and it's 3am and you fix it —
+  4 coffees deep.
+  found the bug.
+  it was a missing comma.
 
   PUSH TO MAIN.
   SHIP IT.
-  SLEEP IS FOR THE DEPLOYED.
+  GO TO SLEEP.
+  WAKE UP.
+  DO IT AGAIN.
 ```
+
+![](https://img.shields.io/badge/PUSH_TO-MAIN-FF6A00?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/SLEEP-OPTIONAL-ff2020?style=flat-square&labelColor=0a0707)
+![](https://img.shields.io/badge/BUGS-PERSONAL-FF6A00?style=flat-square&labelColor=0a0707)
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -380,11 +447,9 @@
 
 ---
 
-<!-- ░░░░  FINAL  ░░░░ -->
-
-```
-  TRANSMISSIONS
-```
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  FINAL                                                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -393,13 +458,9 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px"/>
-
-<br/><br/>
-
 ```
   [ SYSTEM IDLE ]   [ OPERATOR : CAFFEINATED ]   [ SEC : 25805-K-2973 ]
-  [ UPTIME : since first coffee ]   [ STATUS : ONLINE ]
+  [ AI/ML IN PROGRESS ]   [ POETRY: ALSO IN PROGRESS ]   [ STATUS : ONLINE ]
 ```
 
 </div>
