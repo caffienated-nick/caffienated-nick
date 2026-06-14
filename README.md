@@ -85,7 +85,7 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="155px"/>&nbsp;<img src="assets/eye.gif" width="155px"/>&nbsp;<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="155px"/>&nbsp;<img src="assets/cube.gif" width="155px"/>
+<img src="assets/eye.gif" width="250px"/>&nbsp;<img src="assets/comp.gif" width="250px"/>&nbsp;<img src="assets/cube.gif" width="155px"/>
 </div>
 
 ---
