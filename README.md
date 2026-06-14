@@ -1,12 +1,12 @@
 <div align="center">
-<img src="./banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/banner.png" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=FF6A00&center=true&vCenter=true&width=700&lines=root%40nick%3A~%24+whoami;%3E+code+wizard+%2F+pixel+brewer+%2F+gpu+tinkerer;root%40nick%3A~%24+cat+%2Fetc%2Fmotd;%3E+ship+it.+fix+it+later.+repeat.;root%40nick%3A~%24+uptime;%3E+running+on+espresso+since+boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=FF6A00&center=true&vCenter=true&width=700&lines=root%40nick%3A~%24+whoami;%3E+code+wizard+%2F+pixel+brewer+%2F+gpu+tinkerer;root%40nick%3A~%24+cat+%2Fetc%2Fmotd;%3E+ship+it.+fix+it+later.+repeat.;root%40nick%3A~%24+uptime;%3E+running+on+espresso+since+boot)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,62 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⡴⠶⠶⠖⠒⠒⠂⠶⠶⠶⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣀⡶⠋⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠉⠳⣤⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢰⡏⣀⣀⣀⣀⣠⡄⠀⠀⣤⡼⠋⠙⢳⡄⠀⠈⣿⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣾⠁⠉⠉⠙⠛⠋⠁⠀⠀⠉⠁⠀⠀⠈⠁⠀⠀⠙⣧⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⡇⠐⠛⠋⠻⣿⡿⠃⠀⠀⠘⠛⢿⣿⠏⠛⠂⠀⠀⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⣿⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢉⡿⠈⠁⢠⡏⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠻⣄⠀⠀⠦⣤⣤⣄⣀⣤⣤⡤⢶⠚⠋⠀⠀⣠⠿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠐⠲⠖⠒⠚⠛⠀⢀⣠⣾⠋⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢈⡽⠖⠦⢤⣤⣤⣤⣤⡤⠴⠶⠚⠋⠛⢶⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣀⡼⠋⠀⠀⠀⠀⠀⢀⡴⠦⣤⡶⢶⡀⠀⠀⠀⠀⠀⠈⢧⡄⠀⠀⠀
+⠀⠀⠀⣠⡟⠁⠀⣄⡀⠀⣠⡴⢿⣖⣋⠉⠙⢮⣷⣄⠀⠀⠀⡀⠀⠈⢳⡄⠀⠀
+⠀⠀⣴⠏⠀⠀⠀⣿⢀⡞⢃⡴⠋⣉⡬⠽⠯⣍⡉⠙⢧⡄⢸⡇⠀⠀⠀⢻⡄⠀
+⠀⢰⠏⠀⠀⠀⠀⣿⠟⠀⠀⠛⣉⣁⣠⢤⣄⣀⣽⠆⠘⢿⣠⣇⠀⠀⠀⠈⢻⡀
+⢀⡾⠀⢀⣀⣤⣤⠟⠀⠀⠀⣴⠛⠉⢉⣈⡉⠋⠉⠀⠀⠈⢿⣿⣀⢀⠀⠀⢸⡇
+⢸⠇⠀⠀⠈⠀⠀⠀⠀⠀⠀⢈⣉⣉⣉⣁⠉⠻⣦⠀⠀⠀⠀⠉⠉⠉⠀⠀⠈⣇
+```
+
+</td>
+<td width="50%" valign="top">
+
+<br/><br/>
+
+```
+  ┌─────────────────────────────┐
+  │  OPERATIVE : caffienated    │
+  │  CLASS     : code wizard    │
+  │  FUEL      : espresso ☕    │
+  │  STATUS    : ONLINE ████░   │
+  │  SLEEP     : DISABLED       │
+  │  BUGS FILED   : ∞           │
+  │  BUGS FIXED   : ∞ - 1       │
+  │  COMMITS TODAY: yes         │
+  └─────────────────────────────┘
+```
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF6A00?style=flat-square&labelColor=0a0707" />
+<img src="https://img.shields.io/badge/MOOD-CHAOTIC_GOOD-00E5FF?style=flat-square&labelColor=0a0707" />
+<img src="https://img.shields.io/badge/FUEL-CAFFEINE_98%25-FF3DA6?style=flat-square&labelColor=0a0707" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -39,37 +94,43 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠿⢛⣫⣵⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⢀⠔⠋⣘⢿⣿⣇⠀⠀⠀⠀⣸⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⡟⣣⣴⣶⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⡿⠀⢠⡾⠋⠈⢿⣿⠀⣠⣴⣾⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣷⣶⣶⣶⣶⣮⣤⣀⣀⣬⣵⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⣠⣴⣶⣷⣦⣀⣀⣀⣀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
-</div>
+</td>
+<td width="45%" valign="middle">
+
+<br/>
+
+```
+░▒▓  WHO GOES THERE  ▓▒░
+
+  I write code. I break things.
+  Then I write more code to fix
+  the things I broke.
+
+  Running on espresso and a deep
+  personal grudge against bad
+  documentation.
+
+  Currently building things that
+  actually ship. No corpo energy.
+  No bullshit.
+
+  code wizard. brewing pixels.
+  you know how it goes.
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-```
-░▒▓█  WHO GOES THERE  █▓▒░
-```
-
-I write code, break things, then write more code to fix the things I broke.
-Running on espresso and a deep personal grudge against bad documentation.
-Code wizard. Brewing pixels. You know how it goes.
+<br/>
 
 ```
-  nick@earth:~$ cat /proc/self/status
-  Name:         caffienated-nick
-  State:        R (running)
-  Fuel:         caffeine [CRITICAL]
-  Git_streak:   ongoing
-  Sleep_mode:   DISABLED
-  Bugs_filed:   ∞
-  Bugs_fixed:   ∞ - 1
-```
-
----
-
-```
-░▒▓█  LOADOUT  █▓▒░
+░▒▓█████████████████████  LOADOUT  █████████████████████▓▒░
 ```
 
 <div align="center">
@@ -85,10 +146,14 @@ Code wizard. Brewing pixels. You know how it goes.
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 ```
-░▒▓█  THE NUMBERS  █▓▒░
+░▒▓█████████████████████  THE NUMBERS  █████████████████████▓▒░
 ```
 
 <div align="center">
@@ -106,33 +171,66 @@ Code wizard. Brewing pixels. You know how it goes.
 
 </div>
 
----
-
-```
-░▒▓█  FIELD DEPLOYMENTS  █▓▒░
-```
-
-<div align="center">
-
-[![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=00E5FF)](https://github.com/caffienated-nick/muxless)
-[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=00E5FF)](https://github.com/caffienated-nick/Hotel-management-system)
-
-[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
-[![Chip-Chimp](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Chip-Chimp&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Chip-Chimp)
-
-</div>
-
-```
-  > muxless          — kills idle NVIDIA GPUs on battery. small script. real impact.
-  > Hotel-mgmt       — full hotel ops in python. someone had to build it.
-  > blackpearl       — python chatroom with pubnub + customtkinter. collab drop.
-  > Chip-Chimp       — whatever this is, it shipped. that's what matters.
-```
+<br/>
 
 ---
 
+<table>
+<tr>
+<td width="35%" valign="middle">
+
 ```
-░▒▓█  TRANSMISSIONS  █▓▒░
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀
+⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣠⣤⣤⣼
+⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠘⣿⣿⣿⣿⠟⠁⠀⠀⠀⠹⣿⣿⣿⣿
+⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⢼⣿⠀⢿⣿⣿⣿
+⠀⠀⠀⢠⣿⣿⣿⣷⡀⠀⠀⠈⠋⢀⣿⣿⣿⣿
+⣀⣀⣀⣀⣿⣿⣿⣿⣿⣶⣶⣶⣶⣿⣿⣿⣿⣾
+⠈⠉⠉⢉⣙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠐⠚⠋⠉⢀⣬⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠴⠚⠉⠀⠀⠀⠉⠛⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+```
+
+</td>
+<td width="65%" valign="middle">
+
+<br/>
+
+```
+░▒▓  FIELD DEPLOYMENTS  ▓▒░
+```
+
+[![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=00E5FF&description_lines_count=2)](https://github.com/caffienated-nick/muxless)
+
+[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=00E5FF&description_lines_count=2)](https://github.com/caffienated-nick/Hotel-management-system)
+
+[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00&description_lines_count=2)](https://github.com/zazriel/blackpearl)
+
+
+</td>
+</tr>
+</table>
+
+---
+
+<br/>
+
+```
+░▒▓█████████████████████  TRANSMISSIONS  █████████████████████▓▒░
 ```
 
 <div align="center">
@@ -141,6 +239,8 @@ Code wizard. Brewing pixels. You know how it goes.
 <img src="https://komarev.com/ghpvc/?username=caffienated-nick&style=for-the-badge&color=FF6A00&labelColor=0a0707" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -155,14 +255,16 @@ Code wizard. Brewing pixels. You know how it goes.
    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝
 ```
 
+<br/>
+
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⠟⠛⠛⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⡏     SYSTEM IDLE.                              ⣿⣿
-⣿⡇     OPERATOR : CAFFIENATED.                   ⣿⣿
-⣿⡇     NEXT DIRECTIVE : UNKNOWN.                 ⣿⣿
-⣿⡇     SEC_CODE : 25805-K-2973                   ⣿⣿
-⣿⣇⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣣⣿⣿⣿
+⣿⣿⠟⠛⠛⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⡏  SYSTEM IDLE. OPERATOR CAFFEINATED.       ⣿⣿
+⣿⡇  NEXT DIRECTIVE : UNKNOWN.                ⣿⣿
+⣿⡇  SEC_CODE : 25805-K-2973                  ⣿⣿
+⣿⡇  UPTIME   : since first coffee            ⣿⣿
+⣿⣇⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣣⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
