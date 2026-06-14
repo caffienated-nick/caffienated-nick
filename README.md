@@ -85,7 +85,7 @@
 ---
 
 <div align="center">
-<img src="assets/comp.gif" width="250px"/>&nbsp;<img src="assets/eye.gif" width="250px"/>&nbsp;<img src="assets/cube.gif" width="300px"/>
+<img src="assets/comp.gif" width="300px"/>&nbsp;<img src="assets/eye.gif" width="300px"/>&nbsp;<img src="assets/cube.gif" width="300px"/>
 </div>
 
 ---
