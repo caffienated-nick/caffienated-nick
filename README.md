@@ -19,7 +19,8 @@
 |  caffienated-nick                                    |
 |  --------------------------------------------------- |
 |  builds weird side projects nobody asked for.        |
-|  goes deep on AI/ML. writes poetry AND code.         |
+|  goes deep on AI/ML and programming.                 |
+|  writes poetry , Novel AND code.                     |
 |                                                      |
 |  into everything: beats. cars. films. machines.      |
 |  games. art. whatever comes next.                    |
