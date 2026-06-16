@@ -18,7 +18,7 @@
  ______________________________________________________
 |  caffienated-nick                                    |
 |  --------------------------------------------------- |
-|  builds weird side projects nobody asked for.        |
+|  Making computers do exactly what I want since 2020. |
 |  goes deep on AI/ML and programming.                 |
 |  writes poetry , Novel AND code.                     |
 |                                                      |
