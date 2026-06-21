@@ -113,7 +113,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0a0707&color=00E5FF&line=FF6A00&point=FF3DA6&area=true&area_color=FF6A00"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=caffienated-nick&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-night-rainbow.svg"/>
@@ -205,9 +204,7 @@
 <td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/glitter-portrait.png" width="100%"/></td>
 </tr></table>
 
-<div align="center">
-<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=dark&border_color=0a0707"/>
-</div>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>&nbsp
