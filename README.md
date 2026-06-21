@@ -81,6 +81,8 @@
 
 ![Python](https://img.shields.io/badge/PYTHON-0a0707?style=for-the-badge&logo=python&logoColor=39ff14) ![Linux](https://img.shields.io/badge/LINUX-0a0707?style=for-the-badge&logo=linux&logoColor=39ff14) ![Git](https://img.shields.io/badge/GIT-0a0707?style=for-the-badge&logo=git&logoColor=39ff14) ![NVIDIA](https://img.shields.io/badge/NVIDIA-0a0707?style=for-the-badge&logo=nvidia&logoColor=39ff14) ![Bash](https://img.shields.io/badge/BASH-0a0707?style=for-the-badge&logo=gnu-bash&logoColor=39ff14) ![VSCode](https://img.shields.io/badge/VSCODE-0a0707?style=for-the-badge&logo=visual-studio-code&logoColor=39ff14) ![Docker](https://img.shields.io/badge/DOCKER-0a0707?style=for-the-badge&logo=docker&logoColor=39ff14)
 
+<img src="https://skillicons.dev/icons?i=python,linux,git,nvidia,bash,vscode,docker&theme=dark" />
+
 ```
   currently going deep on AI/ML.
   not the tutorial kind.
@@ -110,6 +112,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=0a0707&ring=FF6A00&fire=FF3DA6&currStreakLabel=00E5FF&sideLabels=e8e8e8&dates=e8e8e8&currStreakNum=FF6A00&sideNums=FF6A00"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0a0707&color=00E5FF&line=FF6A00&point=FF3DA6&area=true&area_color=FF6A00"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=caffienated-nick&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -197,6 +206,10 @@
 </tr></table>
 
 <div align="center">
+<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=dark&border_color=0a0707"/>
+</div>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>&nbsp
 </div>
 
@@ -215,11 +228,20 @@
   -------------------------------------------
 ```
 
+<!-- PINS:START -->
 [![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/muxless)
 
 [![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Hotel-management-system)
 
 [![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF3DA6)](https://github.com/zazriel/blackpearl)
+<!-- PINS:END -->
+
+<!--
+  Repobeats (per-repo commit/PR/issue activity chart) can't be auto-generated here —
+  each repo needs a one-time registration at https://repobeats.axiom.co to get its
+  own embed hash. Once registered, drop this into THAT repo's own README:
+  [![Repobeats analytics image](https://repobeats.axiom.co/api/embed/YOUR_HASH_HERE.svg)](https://repobeats.axiom.co)
+-->
 
 </td>
 </tr></table>
@@ -246,6 +268,20 @@
 </td>
 <td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/pixel-portrait.png" width="100%"/></td>
 </tr></table>
+
+---
+
+<div align="center">
+
+```
+  WEEKLY GRIND
+  -------------------------------------------
+```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
 
 ---
 
