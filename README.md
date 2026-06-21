@@ -289,7 +289,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 31.8 kB Used in GitHub's Storage 
  > 
 > 🏆 206 Contributions in the Year 2026
  > 
@@ -353,7 +353,7 @@ Batchfile                1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 18:08:11 UTC
+ Last Updated on 21/06/2026 18:20:40 UTC
 <!--END_SECTION:waka-->
 
 </div>
