@@ -227,7 +227,7 @@
 </div>
 
 <div align="center">
-<img src="assets/anime.gif" width="300px"/>&nbsp;<img src="assets/hacker.gif" width="300px"/>&nbsp;<img src="assets/cat.gif" width="200px"/>&nbsp;<img 
+<img src="assets/anime.gif" width="200px"/>&nbsp;<img src="assets/hacker.gif" width="300px"/>&nbsp;<img src="assets/cat.gif" width="200px"/>&nbsp;<img 
 </div>
 
 ---
