@@ -81,7 +81,7 @@
 
 ![Python](https://img.shields.io/badge/PYTHON-0a0707?style=for-the-badge&logo=python&logoColor=39ff14) ![Linux](https://img.shields.io/badge/LINUX-0a0707?style=for-the-badge&logo=linux&logoColor=39ff14) ![Git](https://img.shields.io/badge/GIT-0a0707?style=for-the-badge&logo=git&logoColor=39ff14) ![NVIDIA](https://img.shields.io/badge/NVIDIA-0a0707?style=for-the-badge&logo=nvidia&logoColor=39ff14) ![Bash](https://img.shields.io/badge/BASH-0a0707?style=for-the-badge&logo=gnu-bash&logoColor=39ff14) ![VSCode](https://img.shields.io/badge/VSCODE-0a0707?style=for-the-badge&logo=visual-studio-code&logoColor=39ff14) ![Docker](https://img.shields.io/badge/DOCKER-0a0707?style=for-the-badge&logo=docker&logoColor=39ff14)
 
-
+<img src="https://skillicons.dev/icons?i=python,linux,git,nvidia,bash,vscode,docker&theme=dark" />
 
 ```
   currently going deep on AI/ML.
@@ -115,9 +115,7 @@
 </td>
 <td width="65%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=10&exclude_repo=caffienated-nick&cache_seconds=1800" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=070B12&ring=00D8FF&fire=FF4433&currStreakLabel=00D8FF&sideLabels=8AAABF&dates=8AAABF&currStreakNum=00D8FF&sideNums=00D8FF" width="100%"/>
 
@@ -132,13 +130,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=0D0202&title_color=FF1100&icon_color=FF5500&text_color=CC3300&include_all_commits=true&count_private=true&ring_color=FF1100&show=reviews,prs_merged,discussions_started,discussions_answered&cache_seconds=1800" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=0D0202&title_color=FF1100&text_color=CC3300&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=0D0202&ring=FF1100&fire=FF4400&currStreakLabel=FF1100&sideLabels=CC3300&dates=CC3300&currStreakNum=FF4400&sideNums=FF4400" width="100%"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0D0202&color=FF5500&line=FF1100&point=FF8800&area=true&area_color=FF1100"/>
+
+<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/metrics.achievements.svg" width="100%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caffienated-nick&theme=radical&utcOffset=5.5" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caffienated-nick&theme=radical" width="49%"/>
 
