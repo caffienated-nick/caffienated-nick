@@ -81,7 +81,7 @@
 
 ![Python](https://img.shields.io/badge/PYTHON-0a0707?style=for-the-badge&logo=python&logoColor=39ff14) ![Linux](https://img.shields.io/badge/LINUX-0a0707?style=for-the-badge&logo=linux&logoColor=39ff14) ![Git](https://img.shields.io/badge/GIT-0a0707?style=for-the-badge&logo=git&logoColor=39ff14) ![NVIDIA](https://img.shields.io/badge/NVIDIA-0a0707?style=for-the-badge&logo=nvidia&logoColor=39ff14) ![Bash](https://img.shields.io/badge/BASH-0a0707?style=for-the-badge&logo=gnu-bash&logoColor=39ff14) ![VSCode](https://img.shields.io/badge/VSCODE-0a0707?style=for-the-badge&logo=visual-studio-code&logoColor=39ff14) ![Docker](https://img.shields.io/badge/DOCKER-0a0707?style=for-the-badge&logo=docker&logoColor=39ff14)
 
-
+<img src="https://skillicons.dev/icons?i=python,linux,git,nvidia,bash,vscode,docker&theme=dark" />
 
 ```
   currently going deep on AI/ML.
@@ -132,11 +132,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0D0202&color=FF5500&line=FF1100&point=FF8800&area=true&area_color=FF1100"/>
 
-<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/metrics.achievements.svg" width="100%"/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-  <img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-south-season.svg"/>
+  <img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-south-season.svg" width="100%"/>
 </picture>
 
 </div>
