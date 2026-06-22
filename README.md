@@ -110,12 +110,19 @@
 </div>
 
 <table width="100%"><tr>
-<td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/lapd.png" width="100%"/></td>
-<td width="65%" valign="middle" align="center">
+<td width="35%" align="center">
+<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/lapd.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/explosion.png" width="100%"/>
+</td>
+<td width="65%" valign="top" align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800"/> <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=100606&title_color=E81500&icon_color=F2D380&text_color=C07850&include_all_commits=true&count_private=true&ring_color=E81500&show=reviews,prs_merged,discussions_started&cache_seconds=1800" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=070B12&ring=00D8FF&fire=FF4433&currStreakLabel=00D8FF&sideLabels=8AAABF&dates=8AAABF&currStreakNum=00D8FF&sideNums=00D8FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=100606&title_color=E81500&text_color=C07850&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=100606&ring=E81500&fire=FF6600&currStreakLabel=E81500&sideLabels=C07850&dates=C07850&currStreakNum=FF6600&sideNums=FF6600" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caffienated-nick&theme=radical" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caffienated-nick&theme=radical" width="49%"/>
 
 </td>
 </tr></table>
@@ -124,16 +131,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0a0707&color=00E5FF&line=FF6A00&point=FF3DA6&area=true&area_color=FF6A00"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=caffienated-nick&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caffienated-nick&theme=radical&utcOffset=5.5" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caffienated-nick&theme=radical" width="49%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caffienated-nick&theme=monokai&utcOffset=5.5" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caffienated-nick&theme=monokai" width="49%"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/explosion.png" width="65%"/>
 </div>
 
 ---
@@ -218,10 +217,6 @@
 </td>
 <td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/glitter-portrait.png" width="100%"/></td>
 </tr></table>
-
-<div align="center">
-<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=dark&border_color=0a0707"/>
-</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>&nbsp
