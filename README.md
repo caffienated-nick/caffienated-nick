@@ -112,26 +112,37 @@
 <table width="100%"><tr>
 <td width="35%" align="center">
 <img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/lapd.png" width="100%"/>
-<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/explosion.png" width="100%"/>
 </td>
-<td width="65%" valign="top" align="center">
+<td width="65%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=100606&title_color=E81500&icon_color=F2D380&text_color=C07850&include_all_commits=true&count_private=true&ring_color=E81500&show=reviews,prs_merged,discussions_started&cache_seconds=1800" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=100606&title_color=E81500&text_color=C07850&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=100606&ring=E81500&fire=FF6600&currStreakLabel=E81500&sideLabels=C07850&dates=C07850&currStreakNum=FF6600&sideNums=FF6600" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caffienated-nick&theme=radical" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caffienated-nick&theme=radical" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=070B12&ring=00D8FF&fire=FF4433&currStreakLabel=00D8FF&sideLabels=8AAABF&dates=8AAABF&currStreakNum=00D8FF&sideNums=00D8FF" width="100%"/>
 
 </td>
 </tr></table>
 
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/explosion.png" width="80%"/>
+</div>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0a0707&color=00E5FF&line=FF6A00&point=FF3DA6&area=true&area_color=FF6A00"/>
+<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=0D0202&title_color=FF1100&icon_color=FF5500&text_color=CC3300&include_all_commits=true&count_private=true&ring_color=FF1100&show=reviews,prs_merged,discussions_started,discussions_answered&cache_seconds=1800" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=0D0202&title_color=FF1100&text_color=CC3300&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=0D0202&ring=FF1100&fire=FF4400&currStreakLabel=FF1100&sideLabels=CC3300&dates=CC3300&currStreakNum=FF4400&sideNums=FF4400" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0D0202&color=FF5500&line=FF1100&point=FF8800&area=true&area_color=FF1100"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caffienated-nick&theme=radical&utcOffset=5.5" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caffienated-nick&theme=radical" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caffienated-nick&theme=radical" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caffienated-nick&theme=radical" width="49%"/>
 
 </div>
 
