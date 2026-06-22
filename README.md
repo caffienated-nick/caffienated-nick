@@ -113,9 +113,9 @@
 <td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/lapd.png" width="100%"/></td>
 <td width="65%" valign="middle" align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&icon_color=00E5FF&text_color=e8e8e8&include_all_commits=true&count_private=true&ring_color=FF3DA6"/> <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&langs_count=8&exclude_repo=caffienated-nick"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800"/> <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=8&exclude_repo=caffienated-nick&cache_seconds=1800"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=0a0707&ring=FF6A00&fire=FF3DA6&currStreakLabel=00E5FF&sideLabels=e8e8e8&dates=e8e8e8&currStreakNum=FF6A00&sideNums=FF6A00"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=070B12&ring=00D8FF&fire=FF4433&currStreakLabel=00D8FF&sideLabels=8AAABF&dates=8AAABF&currStreakNum=00D8FF&sideNums=00D8FF"/>
 
 </td>
 </tr></table>
@@ -126,7 +126,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=caffienated-nick&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
-<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/metrics.achievements.svg" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=caffienated-nick&theme=monokai&utcOffset=5.5" width="49%"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=caffienated-nick&theme=monokai" width="49%"/>
 
 </div>
 
