@@ -1,0 +1,17 @@
+[
+  {
+    "type": "normal-dark",
+    "backgroundColor": "#0a0707",
+    "foregroundColor": "#1a0a0a",
+    "strongHighlightColor": "#FF1100",
+    "lightHighlightColor": "#991100",
+    "contribution": {
+      "color1": "#1a0000",
+      "color2": "#550000",
+      "color3": "#991100",
+      "color4": "#CC2200",
+      "color5": "#FF1100"
+    },
+    "fileName": "profile-night-rainbow.svg"
+  }
+]
