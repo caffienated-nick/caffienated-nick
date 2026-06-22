@@ -296,6 +296,77 @@
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 36.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 230 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+🌆 Daytime                47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+🌃 Evening                144 commits         ██████████████░░░░░░░░░░░   56.03 % 
+🌙 Night                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Tuesday                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Thursday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Saturday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Sunday                   98 commits          ██████████░░░░░░░░░░░░░░░   38.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             █████████████████░░░░░░░░   66.67 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Batchfile                1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/06/2026 11:43:09 UTC
 <!--END_SECTION:waka-->
 
 </div>
