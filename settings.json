@@ -6,8 +6,9 @@
     "foregroundColor": "#FF9999",
     "strongColor": "#FF1100",
     "weakColor": "#2a0d0d",
-    "radarColor": "#FF4400",
-    "growingAnimation": false,
+    "radarColor": "#FF8800",
+    "growingAnimation": true,
+    "duration": "6s",
     "contribColors": [
       "#3D0000",
       "#6B0000",
