@@ -3,15 +3,15 @@
     "type": "normal",
     "fileName": "profile-night-rainbow.svg",
     "backgroundColor": "#0a0707",
-    "foregroundColor": "#f0c8c8",
+    "foregroundColor": "#FF9999",
     "strongColor": "#FF1100",
-    "weakColor": "#441111",
+    "weakColor": "#2a0d0d",
     "radarColor": "#FF4400",
     "growingAnimation": false,
     "contribColors": [
-      "#1a0000",
-      "#550000",
-      "#881100",
+      "#3D0000",
+      "#6B0000",
+      "#990000",
       "#CC2200",
       "#FF1100"
     ]
