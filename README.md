@@ -107,18 +107,33 @@
   THE NUMBERS
 ```
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&icon_color=00E5FF&text_color=e8e8e8&include_all_commits=true&count_private=true&ring_color=FF3DA6"/> <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&langs_count=8"/>
+</div>
+
+<table width="100%"><tr>
+<td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/lapd.png" width="100%"/></td>
+<td width="65%" valign="middle" align="center">
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&icon_color=00E5FF&text_color=e8e8e8&include_all_commits=true&count_private=true&ring_color=FF3DA6"/> <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&langs_count=8&exclude_repo=caffienated-nick"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=0a0707&ring=FF6A00&fire=FF3DA6&currStreakLabel=00E5FF&sideLabels=e8e8e8&dates=e8e8e8&currStreakNum=FF6A00&sideNums=FF6A00"/>
 
+</td>
+</tr></table>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caffienated-nick&theme=react-dark&hide_border=true&bg_color=0a0707&color=00E5FF&line=FF6A00&point=FF3DA6&area=true&area_color=FF6A00"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=caffienated-nick&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-  <img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/metrics.achievements.svg" width="100%"/>
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/explosion.png" width="65%"/>
 </div>
 
 ---
@@ -204,20 +219,22 @@
 <td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/glitter-portrait.png" width="100%"/></td>
 </tr></table>
 
-
+<div align="center">
+<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=dark&border_color=0a0707"/>
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>&nbsp
 </div>
 
 <div align="center">
-<img src="assets/anime.gif" width="200px"/>&nbsp;<img src="assets/hacker.gif" width="300px"/>&nbsp;<img src="assets/cat.gif" width="200px"/>&nbsp;<img 
+<img src="assets/anime.gif" width="300px"/>&nbsp;<img src="assets/hacker.gif" width="300px"/>&nbsp;<img src="assets/cat.gif" width="200px"/>&nbsp;<img 
 </div>
 
 ---
 
 <table width="100%"><tr>
-<td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/halftone-clouds.png" width="100%"/></td>
+<td width="35%" align="center"><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/halftone-clouds.png" width="100%"/><img src="https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/wave.png" width="100%"/></td>
 <td width="65%" valign="middle">
 
 ```
@@ -228,13 +245,9 @@
 <!-- PINS:START -->
 [![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/muxless)
 
-[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
+[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Hotel-management-system)
 
-[![Cha-Ching](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Cha-Ching&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Cha-Ching)
-
-[![Element-mk1](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Element-mk1&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Element-mk1)
-
-[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=b44fff&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Hotel-management-system)
+[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF3DA6)](https://github.com/zazriel/blackpearl)
 <!-- PINS:END -->
 
 <!--
@@ -280,75 +293,6 @@
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-225-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 31.9 kB Used in GitHub's Storage 
- > 
-> 🏆 207 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-🌆 Daytime                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-🌃 Evening                144 commits         ███████████████░░░░░░░░░░   61.54 % 
-🌙 Night                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Tuesday                  46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Saturday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Sunday                   98 commits          ██████████░░░░░░░░░░░░░░░   41.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             █████████████████░░░░░░░░   66.67 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Batchfile                1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/bar_graph.png)
-
-
- Last Updated on 22/06/2026 04:25:06 UTC
 <!--END_SECTION:waka-->
 
 </div>
