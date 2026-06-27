@@ -79,7 +79,7 @@
   -------------------------------------------
 ```
 
-![Python](https://img.shields.io/badge/PYTHON-0a0707?style=for-the-badge&logo=python&logoColor=39ff14) ![Linux](https://img.shields.io/badge/LINUX-0a0707?style=for-the-badge&logo=linux&logoColor=39ff14) ![Git](https://img.shields.io/badge/GIT-0a0707?style=for-the-badge&logo=git&logoColor=39ff14) ![NVIDIA](https://img.shields.io/badge/NVIDIA-0a0707?style=for-the-badge&logo=nvidia&logoColor=39ff14) ![Bash](https://img.shields.io/badge/BASH-0a0707?style=for-the-badge&logo=gnu-bash&logoColor=39ff14) ![VSCode](https://img.shields.io/badge/VSCODE-0a0707?style=for-the-badge&logo=visual-studio-code&logoColor=39ff14) ![Docker](https://img.shields.io/badge/DOCKER-0a0707?style=for-the-badge&logo=docker&logoColor=39ff14)
+![Python](https://img.shields.io/badge/PYTHON-0a0707?style=for-the-badge&logo=python&logoColor=39ff14) ![Linux](https://img.shields.io/badge/LINUX-0a0707?style=for-the-badge&logo=linux&logoColor=39ff14) ![Git](https://img.shields.io/badge/GIT-0a0707?style=for-the-badge&logo=git&logoColor=39ff14) ![NVIDIA](https://img.shields.io/badge/NVIDIA-0a0707?style=for-the-badge&logo=nvidia&logoColor=39ff14) ![Bash](https://img.shields.io/badge/BASH-0a0707?style=for-the-badge&logo=gnu-bash&logoColor=39ff14) ![VSCode](https://img.shields.io/badge/VSCODE-0a0707?style=for-the-badge&logo=visual-studio-code&logoColor=39ff14) ![Docker](https://img.shields.io/badge/DOCKER-0a0707?style=for-the-badge&logo=docker&logoColor=39ff14) ![VIM](https://img.shields.io/badge/VIM-0a0707?style=for-the-badge&logo=vim&logoColor=39ff14)
 
 
 
