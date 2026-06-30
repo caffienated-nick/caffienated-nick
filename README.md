@@ -298,7 +298,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -367,7 +367,7 @@ Batchfile                1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caffienated-nick/caffienated-nick/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 04:05:39 UTC
+ Last Updated on 30/06/2026 03:49:55 UTC
 <!--END_SECTION:waka-->
 
 </div>
