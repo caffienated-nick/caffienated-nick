@@ -242,15 +242,15 @@
 ```
 
 <!-- PINS:START -->
-[![muxless](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/muxless)
+[![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/muxless)
 
-[![blackpearl](https://github-stats-extended.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
+[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
 
-[![Cha-Ching](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=Cha-Ching&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Cha-Ching)
+[![Cha-Ching](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Cha-Ching&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Cha-Ching)
 
-[![Element-mk1](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=Element-mk1&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Element-mk1)
+[![Element-mk1](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Element-mk1&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Element-mk1)
 
-[![Hotel-management-system](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=b44fff&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Hotel-management-system)
+[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=b44fff&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Hotel-management-system)
 <!-- PINS:END -->
 
 <!--
