@@ -115,7 +115,7 @@
 </td>
 <td width="65%" valign="middle" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=10&exclude_repo=caffienated-nick&cache_seconds=1800" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800" width="48%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=10&exclude_repo=caffienated-nick&cache_seconds=1800" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=070B12&ring=00D8FF&fire=FF4433&currStreakLabel=00D8FF&sideLabels=8AAABF&dates=8AAABF&currStreakNum=00D8FF&sideNums=00D8FF" width="100%"/>
 
@@ -242,15 +242,15 @@
 ```
 
 <!-- PINS:START -->
-[![muxless](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/muxless)
+[![muxless](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=muxless&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/muxless)
 
-[![blackpearl](https://github-readme-stats.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
+[![blackpearl](https://github-stats-extended.vercel.app/api/pin/?username=zazriel&repo=blackpearl&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF3DA6&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/zazriel/blackpearl)
 
-[![Cha-Ching](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Cha-Ching&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Cha-Ching)
+[![Cha-Ching](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=Cha-Ching&theme=transparent&hide_border=true&bg_color=0a0707&title_color=00E5FF&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Cha-Ching)
 
-[![Element-mk1](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Element-mk1&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Element-mk1)
+[![Element-mk1](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=Element-mk1&theme=transparent&hide_border=true&bg_color=0a0707&title_color=FF6A00&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Element-mk1)
 
-[![Hotel-management-system](https://github-readme-stats.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=b44fff&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Hotel-management-system)
+[![Hotel-management-system](https://github-stats-extended.vercel.app/api/pin/?username=caffienated-nick&repo=Hotel-management-system&theme=transparent&hide_border=true&bg_color=0a0707&title_color=b44fff&text_color=e8e8e8&icon_color=FF6A00)](https://github.com/caffienated-nick/Hotel-management-system)
 <!-- PINS:END -->
 
 <!--
