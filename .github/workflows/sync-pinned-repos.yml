@@ -1,0 +1,32 @@
+name: Sync Pinned Repos
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily at 06:00 UTC — change to taste
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync-pins:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Rebuild FIELD DEPLOYMENTS block from live pinned repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: caffienated-nick
+        run: node scripts/update-pinned-repos.js
+
+      - name: Commit changes if anything moved
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync pinned repos order"
+          file_pattern: README.md
