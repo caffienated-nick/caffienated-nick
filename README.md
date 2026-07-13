@@ -115,9 +115,8 @@
 </td>
 <td width="65%" valign="middle" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800" width="48%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=caffienated-nick&layout=compact&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&text_color=8AAABF&langs_count=10&exclude_repo=caffienated-nick&cache_seconds=1800" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=070B12&ring=00D8FF&fire=FF4433&currStreakLabel=00D8FF&sideLabels=8AAABF&dates=8AAABF&currStreakNum=00D8FF&sideNums=00D8FF" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=caffienated-nick&show_icons=true&theme=transparent&hide_border=true&bg_color=070B12&title_color=00D8FF&icon_color=FF4433&text_color=8AAABF&include_all_commits=true&count_private=true&ring_color=00D8FF&show=reviews,prs_merged&cache_seconds=1800" width="80%"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caffienated-nick&theme=dark&hide_border=true&background=070B12&ring=00D8FF&fire=FF4433&currStreakLabel=00D8FF&sideLabels=8AAABF&dates=8AAABF&currStreakNum=00D8FF&sideNums=00D8FF" width="80%"/>
 
 </td>
 </tr></table>
